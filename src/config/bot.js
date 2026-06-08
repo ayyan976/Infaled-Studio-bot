@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made by Infaled Studio",
+        name: "Made by Infaled Studio<:emoji_name:1502990397855764663>",
         // Activity type number (0 = Playing).
         type: 0, 
       },
